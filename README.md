@@ -45,21 +45,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pardeshiaayush27&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardeshiaayush27&layout=compact" />
-</p>
-
----
-
-### 🚀 What I’m Focusing On
-
-- Building **real-world projects** with Java & Spring Boot  
-- Improving **problem-solving and system design basics**  
-- Writing **cleaner, more maintainable code**  
